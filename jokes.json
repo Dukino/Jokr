@@ -1,10 +1,12 @@
 [
     {
         "id" : "0",
-        "content" : "Sike! There is no joke here!"
+        "content" : "Sike! There is no joke here!",
+        "submittedBy" : "Admin"
     },
     {
         "id" : "1",
-        "content" : "This is the second joke...Change me later..."
+        "content" : "This is the second joke...Change me later...",
+        "submittedBy" : "Admin"
     }
 ]

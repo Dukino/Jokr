@@ -1,0 +1,32 @@
+.center {
+    text-align: center;
+}
+.title {
+    margin-top: 15%;
+}
+#joke {
+    margin-top: 100px;
+}
+h1 {
+    font-family: sans-serif;
+}
+button {
+    display: inline-block;
+    border-radius: 7px;
+    border: 0px;
+    min-width: 200px;
+    min-height: 50px;
+    margin: 15px;
+}
+button#like {
+    background: green;
+}
+button#dislike {
+    background: red;
+}
+.fa {
+    font-size: 40px !important;
+}
+p {
+    font-size: 35px;
+}
